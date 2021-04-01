@@ -2,7 +2,7 @@
     "name": "hepplerdotnet/fulltextsearch",
     "description": "Trait to implement FullTextSearch in Laravel Eloquent",
     "license": "MIT",
-    "version": "2.0",
+    "version": "2.0.1",
     "authors": [
         {
             "name": "Patrick Heppler",
